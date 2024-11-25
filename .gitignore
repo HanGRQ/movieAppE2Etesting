@@ -24,3 +24,5 @@ yarn-error.log*
 .eslintcache
 
 notes.md
+
+cypress.env.json
